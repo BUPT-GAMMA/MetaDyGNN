@@ -1,3 +1,3 @@
 # MetaDyGNN
 
-Source code for TKDE submission "Few-shot Link Prediction in Dynamic Networks"
+Source code for WSDM 2022 paper "Few-shot Link Prediction in Dynamic Networks"
