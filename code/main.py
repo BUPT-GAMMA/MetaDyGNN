@@ -101,12 +101,9 @@ if __name__ == "__main__":
     load_model = False
 
     # training model.
-    # model_name = 'by_MAML'
-    # model_name = 'no_finetune'
-    # model_name = 'fine_tune'
+
     model_name = 'time_interval_sp'
-    # model_name = 'time_interval_pool'
-    # model_name = 'time_MAML_sp'
+
 
     if data_set == 'wikipedia':
         from Config import config_wikipedia as config
